@@ -1,0 +1,6 @@
+# para la implmentacion de Excel primero hay que instalar
+
+composer require phpoffice/phpspreadsheet
+
+
+
